@@ -28,7 +28,7 @@ header {
 .logo {
     width: 180px;
     height: 80px;
-    background: url(/images/wikihow_logo_intl.png);
+    background: url(https://github.com/Dropyx/recette/blob/main/images/wikihow_logo_intl.png?raw=true);
     background-size: 180px;
     background-repeat: no-repeat;
     background-position: 0 24px;
@@ -72,7 +72,7 @@ header {
 }
 
 #navigation-contribuye {
-    background: url(/images/contribuye.png);
+    background: url(https://github.com/Dropyx/recette/blob/main/images/contribuye.png?raw=true);
     background-repeat: no-repeat;
     background-size: 30px;
     background-position: center 15px;
@@ -81,21 +81,21 @@ header {
 }
 
 #navigation-explora {
-    background: url(/images/explora.png);
+    background: url(https://github.com/Dropyx/recette/blob/main/images/explora.png?raw=true);
     background-repeat: no-repeat;
     background-size: 25px;
     background-position: center 15px;
 }
 
 #navigation-entrar {
-    background: url(/images/entrar.png);
+    background: url(https://github.com/Dropyx/recette/blob/main/images/entrar.png?raw=true);
     background-repeat: no-repeat;
     background-size: 25px;
     background-position: center 15px;
 }
 
 #navigation-mensajes {
-    background: url(/images/mensajes.png);
+    background: url(https://github.com/Dropyx/recette/blob/main/images/mensajes.png?raw=true);
     background-repeat: no-repeat;
     background-size: 30px;
     background-position: center 15px;
